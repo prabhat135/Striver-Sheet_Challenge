@@ -1,4 +1,4 @@
-# b# Strivers-Sheet-Challenge
+# Strivers-Sheet-Challenge
 
 Hello connections, Striver (Raj Vikramaditya) announced SDE Sheet Challenge and I am participating in this challenge.🔥
 Let's push our boundaries, embrace the learning process, and strive for excellence together. 🌟🚀🤝
